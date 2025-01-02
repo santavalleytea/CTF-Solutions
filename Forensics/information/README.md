@@ -14,3 +14,5 @@ So, I decided to simply use `exiftool cat.jpg` to check the metadata of the imag
 <br>
 Using the command `echo "encoded_string" | base64 -d` I found the flag. <br>
 flag = picoCTF{the_m3tadata_1s_modified}
+
+From PicoCTF
