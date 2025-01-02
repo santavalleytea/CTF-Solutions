@@ -10,3 +10,4 @@ At the bottom of each README file, you will find the source of the challenge (Tr
 1. **[Forensics](Forensics/)**
 2. **[Penetration Testing](PenTesting/)**
 3. **[Web Applications](WebApplications/)**
+4. **[OSINT (Open Source Intelligence)](OSIT/)**
