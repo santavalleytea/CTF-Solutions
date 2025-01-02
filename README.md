@@ -8,3 +8,5 @@ At the bottom of each README file, you will find the source of the challenge (Tr
 
 # Categories
 1. **[Forensics](Forensics/)**
+2. **[Penetration Testing](PenTesting/)**
+3. **[Web Applications](WebApplications/)**
