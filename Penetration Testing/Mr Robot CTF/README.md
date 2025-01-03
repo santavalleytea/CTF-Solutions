@@ -58,7 +58,6 @@ Skipping over a rather tiresome search, I found a directory that seemed suspicio
 ![img](images/nmapbin.png)<br><br>
 As you can see, there exist a directory: `/usr/local/bin/nmap`, so I decided to `cd` to it.<br><br>
 I used the command `nmap --interactive`, which was used in an older version of `nmap` to start an interactive shell for running `nmap` commands, and by doing so, I was able to navigate to the root directory.<br><br>
-![img](images/root.png)<br><br>
 Finally, I was able to find the third and final flag I was looking for.<br><br>
 ![img](images/key3.png)<br><br>
 
