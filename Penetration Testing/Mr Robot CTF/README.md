@@ -1,10 +1,10 @@
 ![img](images/challenge.png) <br><br>
-This challenge is based on the show, "Mr Robot" and I have categorized it as a penetration testing challenge.<br>
+This challenge is based on the show, "Mr Robot" and I have categorized it as a penetration testing challenge.<br><br>
 It starts off by giving us the machine IP for us to work with, in this case `10.10.165.81`. <br>
 Here, I used the `nmap` tool to scan the IP address given, to see which ports are open. <br><br>
 ![img](images/nmap.png) <br><br>
 We see that there are two ports open. Port `80` refers to HTTP and `443` refers to HTTPS. This indicated to me
-that I can access it using a web browser. Thus, inputting the IP address into the URL bar gave the following.<br><br>
+that I could access it using a web browser. Thus, inputting the IP address into the URL bar gave the following.<br><br>
 ![img](images/homepage.png)<br><br>
 This web page was really cool and I advise anyone who is attempting this challenge to check out the commands available on the front page. However, for this
 purpose, I decided to check existing directories using `gobuster`.<br><br>
