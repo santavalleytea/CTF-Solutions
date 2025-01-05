@@ -60,7 +60,5 @@ As you can see, there exists a directory: `/usr/local/bin/nmap`, so I decided to
 I used the command `nmap --interactive`, which was used in an older version of `nmap` to start an interactive shell for running `nmap` commands, and by doing so, I was able to navigate to the root directory.<br><br>
 Finally, I was able to find the third and final flag I was looking for.<br><br>
 ![img](images/key3.png)<br><br>
-
 This was a rather challenging CTF for me, but taught me a lot of tools and skills for penetration testing.<br><br>
-
 From TryHackMe
